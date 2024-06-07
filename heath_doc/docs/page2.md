@@ -1,0 +1,2 @@
+## ABOUT US
+   Healthstack is an internet-based platform that supports numerous hospitals. It provides urgent medical aid to patients requiring emergency care and offers the capability to track, monitor, and share patient health records across all hospitals. Additionally, patients can view information about various hospitals and providers, and schedule appointments online.
